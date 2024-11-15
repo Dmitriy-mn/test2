@@ -1,0 +1,1 @@
+{"version":3,"file":"helper-BaBfF2kT.js","sources":["../../src/js/helper.js"],"sourcesContent":["function add(a, b) {\n    return a + b * 2;\n}\n\nexport default add;\n\n"],"names":["add","a","b"],"mappings":"ssBAAA,SAASA,EAAIC,EAAGC,EAAG,CACf,OAAOD,EAAIC,EAAI,CACnB"}
